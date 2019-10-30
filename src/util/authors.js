@@ -1,9 +1,9 @@
 const authors = [
   {
-    name: 'jonh Doe',
-    imageUrl: 'jonh.jpg',
+    name: 'John Doe',
+    imageUrl: 'john.jpg',
     bio:
-      'jonh has been a front-end and UI designer fpr over 10 years, he is a brilliant artist',
+      'John has been a front-end and UI designer fpr over 10 years, he is a brilliant artist',
     facebook: 'https://www.facebook.com/',
     twitter: 'https://www.twitter.com/',
     instagram: 'https://www.instagram.com/',
